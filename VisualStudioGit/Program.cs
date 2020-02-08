@@ -10,6 +10,7 @@ namespace VisualStudioGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to visual studio");
         }
     }
 }
