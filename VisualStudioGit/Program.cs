@@ -11,6 +11,14 @@ namespace VisualStudioGit
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to visual studio");
+            PrintNumbers();
+        }
+        static void PrintNumbers()
+        {
+            for (int i = 0; i < 20; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }

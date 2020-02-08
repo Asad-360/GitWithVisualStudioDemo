@@ -1,1 +1,6 @@
 c:\users\asad mukhtar\documents\visual studio 2015\Projects\VisualStudioGit\VisualStudioGit\bin\Debug\VisualStudioGit.exe.config
+C:\Users\Asad Mukhtar\documents\visual studio 2015\Projects\VisualStudioGit\VisualStudioGit\bin\Debug\VisualStudioGit.exe
+C:\Users\Asad Mukhtar\documents\visual studio 2015\Projects\VisualStudioGit\VisualStudioGit\bin\Debug\VisualStudioGit.pdb
+C:\Users\Asad Mukhtar\documents\visual studio 2015\Projects\VisualStudioGit\VisualStudioGit\obj\Debug\VisualStudioGit.csprojResolveAssemblyReference.cache
+C:\Users\Asad Mukhtar\documents\visual studio 2015\Projects\VisualStudioGit\VisualStudioGit\obj\Debug\VisualStudioGit.exe
+C:\Users\Asad Mukhtar\documents\visual studio 2015\Projects\VisualStudioGit\VisualStudioGit\obj\Debug\VisualStudioGit.pdb
